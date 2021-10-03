@@ -15759,6 +15759,21 @@
          "email": "info@dogelana.com",
          "coinmarketcap": "https://coinmarketcap.com/currencies/dogelana/"
        }
+    },
+  {
+       "chainId": 101,
+       "address": "6KfDDXh4SFBEaUmL2JMYYQ9QETQL2PxowUucY1Vg3oe4",
+       "symbol": "SUSD",
+       "name": "Salvador USD",
+       "decimals": 9,
+       "logoURI": "https://cdn.jsdelivr.net/gh/Check957/susd/logo.png",
+       "tags": [
+        "stablecoin"
+     ],
+       "extensions": {
+         "twitter": "https://twitter.com/SalvadorUsd",
+         "Telegram": "https://t.me/salvadousd"
+      }      
     }
   ],
   "version": {
